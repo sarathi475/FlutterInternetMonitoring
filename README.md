@@ -32,6 +32,6 @@ flutter run
 ```
 ### ✌&ensp;Preview
 
-|              Image Preview              |                  Gif Preview                   |
+|              No Interneet Preview              |                  Internet Connected Preview                   |
 |:---------------------------------------:|:----------------------------------------------:|
 | <img src="no_internet.png" width="350"> | <img src="internet_connected.png" width="350"> |
